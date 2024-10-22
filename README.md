@@ -20,15 +20,15 @@
 <img alt="my skills" src="https://skillicons.dev/icons?theme=dark&perline=7&i=html,css,js,react,figma,c,cpp" />
 <br>
 
-
 <!-- 4. GitHub usernameを変更, 2箇所 -->
 <!-- ライトモート：theme=light, ダークモート：theme=vue-dark  -->
 ## 🏃‍♀️ Activities
 <div align="left"> 
-  <img alt="Top Langs" height="170px" src="https://github-readme-stats.vercel.app/api?username=shimmen3141&theme=vue-dark&layout=compact" />
-  <img alt="github stats" height="170px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shimmen3141&theme=vue-dark&layout=compact" />
+  <img alt="Top Langs" height="170px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shimmen3141&layout=compact&theme=onedark" />
+  <img alt="github stats" height="170px" src="https://github-readme-stats.vercel.app/api?username=shimmen3141&show_icons=true&theme=onedark" />
 </div>
 
+[![trophy](https://github-profile-trophy.vercel.app/?username=shimmen3141&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 
 <!--
 This repository is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -44,5 +44,3 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=shimmen3141)](https://github.com/ryo-ma/github-profile-trophy)
