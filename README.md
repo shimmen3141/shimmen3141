@@ -28,7 +28,7 @@
   <img alt="github stats" height="170px" src="https://github-readme-stats.vercel.app/api?username=shimmen3141&show_icons=true&theme=onedark" />
 </div>
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=shimmen3141&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=shimmen3141&theme=onedark&rank=-?)](https://github.com/ryo-ma/github-profile-trophy)
 
 <!--
 This repository is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
